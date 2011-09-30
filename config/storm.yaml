@@ -1,0 +1,6 @@
+storm.zookeeper.servers:
+     - "zookeeper1.DOMAIN"
+     - "zookeeper2.DOMAIN"
+     - "zookeeper3.DOMAIN"
+
+nimbus.host: "storm-nimbus.DOMAIN"
